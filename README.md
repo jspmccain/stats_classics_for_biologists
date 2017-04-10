@@ -5,13 +5,13 @@ This is just a start for some classic papers aimed at biologists. It's for a bio
 
 *Paper Collections*
 
-Koenig 1999, Spatial autocorrelation of ecological phenomena
-
 Ellison, Gotelli, Inouye, and Strong, 2014, *Forum*, P values, hypothesis testing, and model selection
 
 Nature Methods, Points of Significance, 2013-; http://www.nature.com/collections/qghhqm/pointsofsignificance
 
 *Publications* 
+
+Koenig 1999, Spatial autocorrelation of ecological phenomena
 
 Storey and Tibshirani, 2003, Statistical significance for genomewide studies
 
