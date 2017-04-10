@@ -13,6 +13,8 @@ Nature Methods, Points of Significance, 2013-; http://www.nature.com/collections
 
 Storey and Tibshirani, 2003, Statistical significance for genomewide studies
 
+Anderson 2005, Permutational multivariate analysis of variance
+
 Ramette 2007, Multivariate analyses in microbial ecology
 
 Nakagawa and Cuthill, 2008, Effect size, confidence intervals and statistical significance a practical guide for biologists
