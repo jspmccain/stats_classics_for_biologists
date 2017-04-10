@@ -3,8 +3,13 @@ A list of "classic" stats papers aimed at biologists
 
 This is just a start for some classic papers aimed at biologists. It's for a bio grad student reading group. Suggestions?
 
+*Paper Collections*
 
 Ellison, Gotelli, Inouye, and Strong, 2014, *Forum*, P values, hypothesis testing, and model selection
+
+Nature Methods, Points of Significance, 2013-; http://www.nature.com/collections/qghhqm/pointsofsignificance
+
+*Publications* 
 
 Nakagawa and Cuthill, 2008, Effect size, confidence intervals and statistical significance a practical guide for biologists
 
